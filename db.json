@@ -1,11 +1,28 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "noelia",
+            "departamento": "logistica",
+            "sueldo": 2000
+        },
+        {
+            "id": 1,
+            "nombre": "jesus",
+            "departamento": "logistica",
+            "sueldo": 2000
+        },
+        {
+            "id": 1,
+            "nombre": "steven",
+            "departamento": "logistica",
+            "sueldo": 2000
+        },
+        {
+            "id": 1,
+            "nombre": "fabiana",
+            "departamento": "logistica",
+            "sueldo": 2000
+        }
+    ]
 }
